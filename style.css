@@ -1,0 +1,61 @@
+.container {
+	width: 70%;
+	margin: auto;
+	text-align: center;
+}
+
+.dice {
+	text-align: center;
+	display: inline-block;
+}
+
+body {
+	background-color: #ff8fa3;
+}
+
+h1 {
+	margin: 30px;
+	font-family: 'Amatic SC', cursive;
+	text-shadow: 1px 0 #232931;
+	font-size: 8rem;
+	color: #c81d25;
+}
+
+p {
+	font-size: 2rem;
+	color: #c81d25;
+	font-family: 'Josefin Sans', sans-serif;
+}
+
+img {
+	width: 80%;
+}
+
+.button {
+ text-align: center;
+	margin-top: 3rem;
+}
+
+button {
+	padding: 10px 50px;
+	border-radius: 15px;
+	border: 2px solid #450920;
+	background-color: #ffafcc;
+	color: #450920;
+	font-size: 1.5rem;
+	font-family: 'Josefin Sans', sans-serif;
+	transition: all 0.5s;
+}
+
+button:hover {
+	background-color: #450920;
+	color: #ff8fa3;
+	cursor: pointer;
+}
+
+footer {
+	margin-top: 5%;
+	color: #450920;
+	text-align: center;
+	font-family: 'Josefin Sans', sans-serif;
+}
